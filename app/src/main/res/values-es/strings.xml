@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi aplicación</string>
+    <string name="item_name">Nombre del artículo</string>
+    <string name="add_item">Añadir Articulo</string>
+    <string name="save">Guardar</string>
+</resources>
